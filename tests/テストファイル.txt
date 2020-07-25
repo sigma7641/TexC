@@ -1,0 +1,25 @@
+%これはコメントです
+\newcommand{hoge}{ほげほげ}
+\newcommand{fuga}{ふがふが}
+\newcommand{foo}{huu}
+\title{サンプルアウトプット}
+\author{sigma7641} %用意しましたが今のところ意味はありません
+\organization{hoge大学}
+\begin{document}
+Body 		%行頭じゃなくてもコメント
+あいうえお　	%改行しても改行されません
+
+\\ %明示的に改行
+改行
+
+
+ %3回改行しているので一度改行される.
+Hello World\\\hoge
+\hoge\fuga
+\foo
+hogehgoe\hoge\\
+\kyoju お世話になっています.\author です。\\
+本日は\jugyo の件でお願いがあります。
+\hoge で\foo なので\help ください。
+よろしくお願いします。
+\end{document}

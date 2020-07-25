@@ -1,0 +1,5 @@
+%これはコメントです
+\newcommand{kyoju}{A先生}
+\newcommand{jugyo}{Z講義}
+\newcommand{help}{助けて}
+\title{Aの件}
