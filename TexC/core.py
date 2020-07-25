@@ -1,4 +1,11 @@
-import TexC
+# 
+# TexC
+# 
+# Copyright (c) 2020 sigma7641
+# 
+# This software is released under the MIT.
+# see https://opensource.org/licenses/MIT
+# 
 import re
 import logging
 import sys
